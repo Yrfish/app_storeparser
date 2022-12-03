@@ -5,6 +5,8 @@ I have a list of AppStore apps urls in xlsx sheet
 
 ↓↓↓↓↓↓↓↓ below acrions in loop for each app ↓↓↓↓↓↓↓↓ 
 
+I save index.html to predict 429 response and to reduse time 
+
 Collect those urls to list and go trought for loop.  
 Go to app urls to collect basic data that i need: subscription, descripeion, rating, language, privacy url, developer url. 
  Than go to privacy url with Selenium to search email. For thar i use re expression. Use Selenium bacause some sites has email protection After all write data to xlsx and save it every 30 iteration and save it if eroor caused

@@ -3,7 +3,7 @@ AppStore parser looking for kind of data about app
 
 I have a list of AppStore apps urls in xlsx sheet
 
-↓↓↓↓↓↓↓↓ below acrions in loop for each app ↓↓↓↓↓↓↓↓ 
+↓↓↓↓↓↓↓↓ below actions in loop for each app ↓↓↓↓↓↓↓↓ 
 
 I save index.html to predict 429 response and to reduse time 
 
